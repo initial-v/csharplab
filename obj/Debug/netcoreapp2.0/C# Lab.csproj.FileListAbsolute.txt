@@ -1,0 +1,10 @@
+/Users/vincentyee/Documents/Development/C# Lab/bin/Debug/netcoreapp2.0/C# Lab.deps.json
+/Users/vincentyee/Documents/Development/C# Lab/bin/Debug/netcoreapp2.0/C# Lab.runtimeconfig.json
+/Users/vincentyee/Documents/Development/C# Lab/bin/Debug/netcoreapp2.0/C# Lab.runtimeconfig.dev.json
+/Users/vincentyee/Documents/Development/C# Lab/bin/Debug/netcoreapp2.0/C# Lab.dll
+/Users/vincentyee/Documents/Development/C# Lab/bin/Debug/netcoreapp2.0/C# Lab.pdb
+/Users/vincentyee/Documents/Development/C# Lab/obj/Debug/netcoreapp2.0/C# Lab.csproj.CoreCompileInputs.cache
+/Users/vincentyee/Documents/Development/C# Lab/obj/Debug/netcoreapp2.0/C# Lab.AssemblyInfoInputs.cache
+/Users/vincentyee/Documents/Development/C# Lab/obj/Debug/netcoreapp2.0/C# Lab.AssemblyInfo.cs
+/Users/vincentyee/Documents/Development/C# Lab/obj/Debug/netcoreapp2.0/C# Lab.dll
+/Users/vincentyee/Documents/Development/C# Lab/obj/Debug/netcoreapp2.0/C# Lab.pdb
