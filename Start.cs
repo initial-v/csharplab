@@ -9,8 +9,21 @@ public class Start{
         //ExecuteVehicleFactory();
         //ExecuteFuncPlayGround();
         //ExecuteFuncGenericPlayground();
-        ExecuteFuncGenericPlaygroundWithObject();
+        //ExecuteFuncGenericPlaygroundWithObject();
         //ExecuteGetComplicatedValue();
+        ExecuteShapeBucketTest();
+    }
+
+    public static void ExecuteShapeBucketTest(){
+        var sb = new ShapeBucket<Red>();
+
+        sb.AddShape(new RedTriangle());
+        sb.AddShape(new RedCircle());
+
+        var result = sb.FindShapes(s => s.Edges >= 0);
+        foreach(var shape in result) {
+            Console.WriteLine($"{shape.GetType()} with {shape.Edges} edge(s).");
+        }
     }
 
     public static void ExecutePalindrome(){
